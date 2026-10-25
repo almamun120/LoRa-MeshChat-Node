@@ -1,0 +1,4 @@
+build/
+test/host_tests
+test/interop
+.pio/
